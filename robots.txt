@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://joyoshishsaha.com/sitemap.xml
+Host: https://joyoshishsaha.com
